@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-24T18:28:14.643Z'
+datePublished: '2016-08-24T18:29:25.053Z'
 sourcePath: _posts/2016-08-24-in-eigener-sache-malte-polzin-geht-von-bord-der-carpathia.md
-isBasedOnUrl: 'http://blog.carpathia.ch/2016/06/08/malte-polzin-geht-von-bord/'
 keywords: []
 related: []
 author:
@@ -9,7 +8,7 @@ author:
     url: 'http://blog.carpathia.ch/author/malte-polzin/'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T18:28:14.078Z'
+dateModified: '2016-08-24T18:29:24.527Z'
 title: 'In eigener Sache: Malte Polzin geht von Bord der Carpathia'
 app_links: []
 publisher:
@@ -26,10 +25,9 @@ description: >-
   gefallen. Manch ein treuer Leser dieses Blogs wird noch die Ankündigung meines
   Eintritts zum 1.
 inLanguage: de
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: in-eigener-sache-malte-polzin-geht-von-bord-der-carpathia/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
