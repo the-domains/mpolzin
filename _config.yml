@@ -12,5 +12,9 @@ color:
     - '#FF9800'
 layout_spectrum: 0.7407112633809447
 name: Mpolzin
+navigation:
+  - name: About me
+    id: faea746f-a610-4369-8260-d2707c09381b
+    type: content
 title: The Digital Business
 description: views from Malte Polzin
