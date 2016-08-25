@@ -16,5 +16,8 @@ navigation:
   - name: About me
     id: faea746f-a610-4369-8260-d2707c09381b
     type: content
+  - name: About
+    url: 'https://polzin.ch/about/'
+    type: external
 title: The Digital Business
 description: views from Malte Polzin
